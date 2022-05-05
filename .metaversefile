@@ -1,4 +1,6 @@
 {
+  "name": "platemail",
+  "description": "platemail",
   "start_url": "https://webaverse.github.io/loot-assets/chest/Plate_Mail/plate_mail.glb",
   "components": [
     {
